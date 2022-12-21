@@ -1,0 +1,8 @@
+101,boston,ceo
+102,Robert,finance
+103,Rahul,Manager
+104,raju,Developer
+105,Ramaya,sysadmin
+106,Rajesh,devepos
+107,somesh,tester
+
